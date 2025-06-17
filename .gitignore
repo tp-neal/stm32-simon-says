@@ -1,0 +1,27 @@
+# STM32CubeIDE-specific files
+.settings/
+.mxproject
+
+# Build artifacts
+Debug/
+Release/
+build/
+
+# Executable and output files
+*.o
+*.elf
+*.bin
+*.hex
+*.list
+*.map
+*.su
+*.cyclo
+*.d
+
+# User-specific files
+*.launch
+
+# System files
+*~
+.DS_Store
+Thumbs.db

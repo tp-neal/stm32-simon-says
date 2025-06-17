@@ -20,6 +20,7 @@ build/
 
 # User-specific files
 *.launch
+*References/
 
 # System files
 *~

@@ -83,6 +83,6 @@ The entire program logic is contained within `main.c` and is designed to be self
 
 ## Preview 📹
 
-For additional images navigate to "/Media/" where you'll find my physical implementation as well as a demo video
+For additional images navigate to "/Media/" where you'll find my physical implementation as well as a demo video.
 
 <img src="Media/complete.jpg" alt="drawing" width="800"/>

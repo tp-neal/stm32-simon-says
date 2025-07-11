@@ -426,7 +426,7 @@ static void gpio_init(const Port_Collection_t *port_group,
     }
 
     // Enable Button Pins
-    for (int i = d; i < button_group->count; i++) {
+    for (int i = 0; i < button_group->count; i++) {
         button_pin_init(button_group->pins[i]);
     }
 
